@@ -1,5 +1,4 @@
 # shijs-batch
-![shijsbatch](https://github.com/user-attachments/assets/93a5bbf3-4f8e-47b8-8a41-79c614ff39b5)
 
 click on link to download, if you have a server or just wanna install thru cmd u can use this aswell (it will get saved in C:)
 
@@ -16,6 +15,5 @@ supported operating systems while these are supported systems, it is recommended
 - windows xp
 - reactOS
 
- ![original](https://github.com/user-attachments/assets/ed607000-4dc9-404b-8390-61ef2931e909)
 
 discord: https://discord.gg/CZzmSueK4h
