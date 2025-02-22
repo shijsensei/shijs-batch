@@ -2,7 +2,7 @@
 
 click on link to download, if you have a server or just wanna install thru cmd u can use this aswell
 
-curl -L -o shijsbatch.bat https://github.com/shijsensei/shijsbatch/releases/latest/download/shijsbatch.bat
+curl -L -o shijsbatch.bat https://github.com/shijsensei/shijs-batch/releases/latest/download/shijsbatch.bat
 
 
 supported operating systems while these are supported systems, it is recommended to use windows 10
