@@ -1,6 +1,6 @@
 # shijs-batch
 
-click on link to download, if you have a server or just wanna install thru cmd u can use this aswell (it will get saved in C:)
+click on link to download, if you have a server or just wanna install thru cmd u can use this aswell
 
 curl -L -o shijsbatch.bat https://github.com/shijsensei/shijsbatch/releases/latest/download/shijsbatch.bat
 
