@@ -4,16 +4,7 @@ click on link to download, if you have a server or just wanna install thru cmd u
 
 curl -L -o shijsbatch.bat https://github.com/shijsensei/shijs-batch/releases/latest/download/shijsbatch.bat
 
-
-supported operating systems while these are supported systems, it is recommended to use windows 10
-
-- windows 11
-- windows 10
-- windows 8.1
-- windows 8
-- windows 7
-- windows xp
-- reactOS
-
-
 discord: https://discord.gg/CZzmSueK4h
+
+![163353782560](https://github.com/user-attachments/assets/21d38046-34d3-4b83-9aa7-4baad6bdf16f)
+
